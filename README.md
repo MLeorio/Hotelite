@@ -2,7 +2,7 @@
 
 ## Attribution de chambres aux clients
 
-1. Tu executes d'abord le fichier **bou.py** : il va te permettre de creer la base de donnees avec les tables...
+1. Tu executes d'abord le fichier **brou.py** : il va te permettre de creer la base de donnees avec les tables...
 2. tu peux maintenant executer le fichier **main.py**
 
 
